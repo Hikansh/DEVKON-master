@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="48dp"
+    android:layout_width="48dp">
+    <item
+        android:id="@+id/collegelocal"
+        android:title="college"
+        android:icon="@drawable/nav_college_social"
+        />
+    <item
+        android:id="@+id/global"
+        android:title="global"
+        android:icon="@drawable/nav_global_social"
+        />
+
+    <item
+        android:id="@+id/trending"
+        android:title="trending"
+        android:icon="@drawable/nav_trending_social"
+         />
+</menu>
